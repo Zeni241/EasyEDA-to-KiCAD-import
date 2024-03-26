@@ -1,0 +1,1 @@
+This is the folder created by KiCAD but it is empty. This file is added by me to the folder to include it in github repo.
